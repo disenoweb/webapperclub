@@ -1,2 +1,2 @@
 # webapperclub
-its a 
+its a new project around D8 & .net
